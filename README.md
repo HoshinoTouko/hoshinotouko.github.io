@@ -4,7 +4,7 @@ The owner of this site is touko.
 
 The website is under construction, so some old things from this website will not be displayed here anymore. 
 
-Don't worry, I set up a savepoint, and you can find those legacy which used to be at [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/).
+Don't worry, I create a savepoint, and you can find what those legacy used to be at [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/).
 
 Of course, you can also find me at
 
