@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## This site is under construction
 
-You can use the [editor on GitHub](https://github.com/HoshinoTouko/hoshinotouko.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The owner of this site is touko.
+The website is under construction, so some old things from this website will not be displayed here anymore. 
+Don't worry, I set up a savepoint, and you can find those legacy which used to be at **https://savepoint.touko.moe/**.
+Of course, you can also find me in these places.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Weibo @touko
+- Twitter @HoshinoTouko
+- Github @HoshinoTouko
 
-### Markdown
+## 网站正在建设中
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这个网站的主人是touko。
+网站正在紧锣密鼓地建设中，所以这个网站的一些旧东西旧不会显示在这里了。
+当然，我设置了存档点，可以在**https://savepoint.touko.moe/**找到那些曾经的东西。
+也可以在这些地方找到我。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HoshinoTouko/hoshinotouko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Weibo @touko
+- Twitter @HoshinoTouko
+- Github @HoshinoTouko
