@@ -22,6 +22,6 @@ Of course, you can also find me at
 
 也可以在这些地方找到我。
 
-- Weibo @touko
-- Twitter @HoshinoTouko
+- 微博 @touko
+- 推特 @HoshinoTouko
 - Github @HoshinoTouko
