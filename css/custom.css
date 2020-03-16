@@ -1,0 +1,18 @@
+.markdown-body a {
+    color: #656565 !important;
+    text-decoration: underline !important;
+    /* font-family: 'Times New Roman', 'Vollkorn' !important; */
+}
+
+.markdown-body h2, h3 {
+    border-bottom: none !important;
+    text-indent: 30px;
+}
+
+.markdown-body {
+    word-break: keep-all;
+}
+
+body {
+    font-size: 0.9em;
+}
