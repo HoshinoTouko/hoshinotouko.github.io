@@ -6,7 +6,7 @@ title: Hello World
 
 ### [Blog Wasteland](https://wasteland.touko.moe/) - My Exploration, My Whisper
 
-### [CV (Under Construction)](/) - Real Me
+### [CV](https://cv.touko.moe/) - Real Me
 
 # Dev
 
