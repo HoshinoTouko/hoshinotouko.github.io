@@ -4,7 +4,7 @@ The owner of this site is touko.
 
 The website is under construction, so some old things from this website will not be displayed here anymore. 
 
-Don't worry, I create a savepoint, and you can find what those legacy used to be at [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/).
+I create a savepoint, and you can find what those legacy used to be at [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/).
 
 Of course, you can also find me at
 
@@ -18,7 +18,7 @@ Of course, you can also find me at
 
 网站正在紧锣密鼓地建设中，所以这个网站的一些旧东西旧不会显示在这里了。
 
-当然，我设置了存档点，可以在 [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/) 找到那些曾经的东西。
+我设置了存档点，可以在 [**https://savepoint.touko.moe/**](https://savepoint.touko.moe/) 找到那些曾经的东西。
 
 也可以在这些地方找到我。
 
