@@ -4,9 +4,9 @@ title: Hello World
 
 # Website
 
-### [Blog Wasteland](https://wasteland.touko.moe/) - My Exploration, My Whisper
+### [Blog Wasteland](https://wasteland.touko.moe/) - My exploration, my whisper
 
-### [CV](https://cv.touko.moe/) - Real Me
+### [CV](https://cv.touko.moe/) - Real me
 
 # Dev
 
