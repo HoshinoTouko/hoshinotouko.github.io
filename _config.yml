@@ -100,4 +100,4 @@ theme: july
 deploy:
   type: git
   repo: git@github.com:HoshinoTouko/hoshinotouko.github.io.git
-  branch: master
+  branch: gh-pages
